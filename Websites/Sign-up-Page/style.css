@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  background: url(./halie-west-25xggax4bSA-unsplash.jpg);
+  width: 100vw;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.side {
+  width: 70%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.main-heading {
+  color: aliceblue;
+  margin-top: 10em;
+  text-align: center;
+}
+
+.form-heading {
+  color: rgb(15, 15, 15);
+  text-align: center;
+  margin-top: 2em;
+}
+
+.form {
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  color: rgb(16, 17, 17);
+  font-size: 2em;
+  margin-top: 5em;
+}
+
+.group {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border: none;
+}
+
+.fix {
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  justify-content: center;
+  padding-left: 4rem;
+  text-align: center;
+}
+
+input {
+  border: none;
+  background: transparent;
+  margin: 0;
+  padding: 7px 8px;
+  font-size: 14px;
+  color: inherit;
+  border: 1px solid transparent;
+  border-radius: inherit;
+  border-radius: 28px;
+  border-color: #1183d6;
+  outline: none;
+}
+
+input:focus {
+  box-shadow: 0 0 3px 0 #1183d6;
+  border-color: #1183d6;
+  outline: none;
+}
+
+input::-moz-placeholder {
+  color: rgb(167, 153, 153);
+}
+
+input:-ms-input-placeholder {
+  color: rgb(167, 153, 153);
+}
+
+input::placeholder {
+  color: rgb(167, 153, 153);
+}
+
+.buttons {
+  margin-top: 1.5em;
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+
+.btn {
+  border-radius: 28px;
+  padding: 5px 10px 5px 10px;
+  width: 10em;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.btn:hover {
+  background-color: #1183d6;
+  cursor: pointer;
+  font-size: 0.5em;
+  color: aliceblue;
+}
+
+.log-in {
+  margin-top: 2em;
+  padding-left: 5.8rem;
+  font-size: 1.5em;
+  margin-bottom: 33vh;
+}
+
+a {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */

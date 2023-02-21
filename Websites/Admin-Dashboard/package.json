@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test:chrome": "npx playwright test --headed --browser=chromium",
+    "test:firefox": "npx playwright test --headed --browser=firefox",
+    "test:safari": "npx playwright test --headed --browser=webkit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.22.1"
+  }
+}
+

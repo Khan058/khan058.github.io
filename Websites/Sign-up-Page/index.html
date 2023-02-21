@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css" type="text/css">
+    <script src="./index.js" defer></script>
+    <title>Sign Up</title>
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="side">
+
+            <h1 class="main-heading">SIGN UP</h1>
+        </div>
+        <div class="form">
+            <h2 class="form-heading">
+                Please fill the following details
+            </h2>
+
+            <form action="#" class="grid">
+                <fieldset class="group">
+                    <div class="fix">
+                        <label for="first-name">*First Name</label>
+                        <input type="text" name="first-name" id="first-name" placeholder="Bob..." required>
+
+                    </div>
+                    <div class="fix">
+                        <label for="last-name">*Last Name</label>
+                        <input type="text" name="last-name" id="last-name" placeholder="Smith..." required>
+                    </div>
+                    <div class="fix">
+                        <label for="email">*Email</label>
+                        <input type="email" name="email" id="email" placeholder="abc@domain.com" required>
+                    </div>
+                    <div class="fix">
+                        <label for="phone">Phone Number</label>
+                        <input type="number" name="phone" placeholder="+1xxxxxx" id="phone">
+                    </div>
+                    <div class="fix">
+                        <label for="password">*Password</label>
+                        <input type="password" name="password" id="password" minlength="8" maxlength="16" required>
+                    </div>
+                    <div class="fix">
+                        <label for="confirm-password">*Confirm Password</label>
+                        <input type="password" name="confirm-password" id="confirm-password" minlength="8"
+                            maxlength="16" required>
+                    </div>
+                </fieldset>
+                <div class="buttons">
+                    <button class="btn submit" type="submit">Create Account</button>
+                    <button class="btn reset" type="reset">Reset</button>
+                </div>
+            </form>
+            <p class="log-in">Already have an Account?
+                <a href="#">Log in</a>
+            </p>
+        </div>
+    </div>
+
+</body>
+
+</html>
