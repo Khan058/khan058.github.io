@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02880883-a9cd-41a0-9dc1-ef56b137315e" name="Changes" comment="revamped the portfolio completely">
-      <change beforePath="$PROJECT_DIR$/Websites/Burak" beforeDir="false" />
+    <list default="true" id="02880883-a9cd-41a0-9dc1-ef56b137315e" name="Changes" comment="removed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676984847184</updated>
       <workItem from="1676984849520" duration="78000" />
-      <workItem from="1676985060330" duration="935000" />
+      <workItem from="1676985060330" duration="1921000" />
     </task>
     <task id="LOCAL-00001" summary="revamped the portfolio completely">
       <created>1676985188669</created>
@@ -68,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676985188669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed a small detail">
+      <created>1676987172688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987172688</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed">
+      <created>1676987205834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987205834</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="revamped the portfolio completely" />
-    <option name="LAST_COMMIT_MESSAGE" value="revamped the portfolio completely" />
+    <MESSAGE value="fixed a small detail" />
+    <MESSAGE value="removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed" />
   </component>
 </project>
