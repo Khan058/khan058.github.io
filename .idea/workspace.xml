@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02880883-a9cd-41a0-9dc1-ef56b137315e" name="Changes" comment="removed">
+    <list default="true" id="02880883-a9cd-41a0-9dc1-ef56b137315e" name="Changes" comment="add counter of pending work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +18,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "J:/newone",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,7 +62,11 @@
       <option name="presentableId" value="Default" />
       <updated>1676984847184</updated>
       <workItem from="1676984849520" duration="78000" />
-      <workItem from="1676985060330" duration="1921000" />
+      <workItem from="1676985060330" duration="2292000" />
+      <workItem from="1677689723930" duration="1311000" />
+      <workItem from="1678124545438" duration="22000" />
+      <workItem from="1688292469054" duration="593000" />
+      <workItem from="1689962309143" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="revamped the portfolio completely">
       <created>1676985188669</created>
@@ -82,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676987205834</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add counter of pending work">
+      <created>1676997897982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676997897982</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add counter of pending work">
+      <created>1676997949412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676997949412</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +113,7 @@
     <MESSAGE value="revamped the portfolio completely" />
     <MESSAGE value="fixed a small detail" />
     <MESSAGE value="removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed" />
+    <MESSAGE value="add counter of pending work" />
+    <option name="LAST_COMMIT_MESSAGE" value="add counter of pending work" />
   </component>
 </project>
